@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Samsung Electronics",
+        "domain": "samsung.com",
+        "year_founded": 1938,
+        "industry": "Consumer electronics",
+        "employees_count": 118428,
+        "locality": "Budapest",
+        "country": "Hungary",
+        "linkedin_url": "linkedin.com/company/samsung-electronics"
+    },
+    {
+        "name": "Google",
+        "domain": "google.com",
+        "year_founded": 1998,
+        "industry": "Internet",
+        "employees_count": 219238,
+        "locality": "Mountain View",
+        "country": "United States",
+        "linkedin_url": "linkedin.com/company/google"
+    },
+    {
+        "name": "Apple",
+        "domain": "apple.com",
+        "year_founded": 1976,
+        "industry": "Consumer electronics",
+        "employees_count": 218112,
+        "locality": "Cupertino",
+        "country": "United States",
+        "linkedin_url": "linkedin.com/company/apple"
+    },
+    {
+        "name": "Ifood",
+        "domain": "ifood.com.br",
+        "year_founded": 2011,
+        "industry": "Internet",
+        "employees_count": 4119,
+        "locality": "Osasco",
+        "country": "Brazil",
+        "linkedin_url": "linkedin.com/company/ifood-"
+    },
+    {
+        "name": "Huawei Technologies",
+        "domain": "huawei.com",
+        "year_founded": 1987,
+        "industry": "Telecommunications",
+        "employees_count": 142063,
+        "locality": "Shenzhen",
+        "country": "China",
+        "linkedin_url": "linkedin.com/company/huawei"
+    },
+    {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "year_founded": 1975,
+        "industry": "Computer software",
+        "employees_count": 189892,
+        "locality": "Redmond",
+        "country": "United States",
+        "linkedin_url": "linkedin.com/company/microsoft"
+    }
+]
