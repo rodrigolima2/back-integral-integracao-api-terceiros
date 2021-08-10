@@ -16,8 +16,6 @@ const verificarVotos = async (req, res) => {
             erro: `${error}`
         })
     }
-
-
 }
 
 const validarVoto = async (req, res) => {
@@ -47,9 +45,9 @@ const validarVoto = async (req, res) => {
             }
         })
 
-        console.log(ip.data)
         if (!ip.data.country) {
             res.status(400).json({ erro: 'O IP não é válido.' })
+            return;
         }
 
         if (req.params.pais !== ip.data.country) {
