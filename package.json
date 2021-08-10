@@ -1,0 +1,26 @@
+{
+  "name": "back-integral-integracao-api-terceiros",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigolima2/back-integral-integracao-api-terceiros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigolima2/back-integral-integracao-api-terceiros/issues"
+  },
+  "homepage": "https://github.com/rodrigolima2/back-integral-integracao-api-terceiros#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
